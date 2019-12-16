@@ -1,0 +1,3 @@
+[submodule "wella-components"]
+	path = wella-components
+	url = https://github.com/algoz098/wella-components.git
